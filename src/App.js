@@ -1,5 +1,5 @@
-import LoginForm from './components/LoginForm'
+import Home from './components/Home'
 
-const App = () => <LoginForm />
+const App = () => <Home />
 
 export default App
