@@ -1,0 +1,56 @@
+.totalContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contentContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.logoImg {
+  width: 50%;
+}
+.imgCss {
+  width: 100%;
+  margin-top: 30px;
+}
+.inputsContainer {
+  width: 100%;
+}
+.labelCss {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #475569;
+  font-weight: bold;
+}
+.usernameContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+.inputbox {
+  background-color: #d7dfe9;
+  border: 0px;
+  height: 40px;
+  width: 100%;
+  font-size: 15px;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.buttonCss {
+  width: 100%;
+  background-color: #0b69ff;
+  height: 40px;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: bold;
+}
