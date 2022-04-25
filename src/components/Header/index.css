@@ -19,6 +19,9 @@
 .logoutImg {
   width: 10%;
 }
+.logoutImg0 {
+  width: 70%;
+}
 .navItemsContianer {
   display: flex;
   flex-direction: row;
@@ -31,4 +34,16 @@
 }
 .navimgs {
   width: 25px;
+}
+.logoutButton {
+  width: 40px;
+  height: 40px;
+  padding: 0px;
+  margin: 0px;
+  background-color: transparent;
+  border: 0px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  cursor: pointer;
 }

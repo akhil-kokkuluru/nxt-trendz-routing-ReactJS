@@ -54,3 +54,6 @@
   font-size: 17px;
   font-weight: bold;
 }
+.linkingProp {
+  text-decoration: none;
+}
