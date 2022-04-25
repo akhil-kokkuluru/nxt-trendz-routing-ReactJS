@@ -57,3 +57,8 @@
 .linkingProp {
   text-decoration: none;
 }
+.errorText {
+  font-size: 13px;
+  font-family: 'Roboto';
+  color: #ff0b37;
+}
